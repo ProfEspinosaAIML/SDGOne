@@ -2,7 +2,7 @@
 Synthetic Data Generation - Trial One
 June 2024
 
-This experiment is hosted in GitHug at:
+This experiment is hosted in GitHub at:
 https://github.com/ProfEspinosaAIML/SDGOne 
 
 
